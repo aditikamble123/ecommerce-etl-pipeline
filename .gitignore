@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Data (optional – keep CSV if you want)
+# data/
